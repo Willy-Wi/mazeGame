@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Level/UI/Stylesheet.uss?fileID=7433441132597879392&amp;guid=6e4a083dbd079c44c961efb8224df338&amp;type=3#Stylesheet" />
+    <ui:VisualElement style="align-items: center; justify-content: center; width: 100%; height: 100%; color: rgba(210, 210, 210, 0); -unity-background-image-tint-color: rgba(255, 255, 255, 0); transition-property: all; transition-duration: 0s; transition-timing-function: ease; transition-delay: 0s;">
+        <ui:VisualElement>
+            <ui:Label text="Elite Maze" display-tooltip-when-elided="true" enable-rich-text="true" style="font-size: 48px; -unity-font-style: bold; color: rgb(229, 229, 229); text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.6); -unity-text-outline-width: 0; -unity-text-outline-color: rgb(0, 0, 0);" />
+        </ui:VisualElement>
+        <ui:VisualElement style="height: 55px;" />
+        <ui:VisualElement style="align-items: center; justify-content: center;">
+            <ui:Button text="Play" display-tooltip-when-elided="true" name="Play" class="button" style="transition-property: all; transition-duration: 0s; transition-timing-function: ease; transition-delay: 0s;" />
+            <ui:VisualElement style="height: 20px;" />
+            <ui:Button text="Quit" display-tooltip-when-elided="true" name="Quit" class="button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Level/UI/Stylesheet.uss?fileID=7433441132597879392&amp;guid=6e4a083dbd079c44c961efb8224df338&amp;type=3#Stylesheet" />
+    <ui:VisualElement style="height: 100%; width: 100%; align-items: center; justify-content: center;">
+        <ui:VisualElement style="width: initial; height: initial; justify-content: center; align-items: center;">
+            <ui:Label text="Congratulations. You&apos;ve completed all the levels!" display-tooltip-when-elided="true" style="-unity-text-align: upper-center; font-size: 26px; -unity-font-style: bold;" />
+            <ui:VisualElement style="background-color: rgba(0, 0, 0, 0); height: 25px;" />
+            <ui:Button text="Back to Main Menu" display-tooltip-when-elided="true" name="BackToMainMenu" class="button" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

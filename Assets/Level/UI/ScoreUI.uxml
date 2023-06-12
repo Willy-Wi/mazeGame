@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Level/UI/Stylesheet.uss?fileID=7433441132597879392&amp;guid=6e4a083dbd079c44c961efb8224df338&amp;type=3#Stylesheet" />
+    <ui:VisualElement style="width: 100%; height: 100%;">
+        <ui:VisualElement style="height: auto; width: 350px; background-color: rgba(0, 0, 0, 0); margin-left: 15px; margin-right: 15px; margin-top: 15px; margin-bottom: 15px;">
+            <ui:Label text="Objectives" name="Title" class="objective" style="color: rgb(255, 255, 255); font-size: 22px; -unity-font-style: bold;" />
+            <ui:VisualElement name="Prefix" style="width: auto; height: 4px; margin-left: 10px; margin-right: 10px; margin-top: 5px; margin-bottom: 5px; background-color: rgb(255, 255, 255); border-top-left-radius: 1px; border-bottom-left-radius: 1px; border-top-right-radius: 1px; border-bottom-right-radius: 1px;" />
+            <ui:VisualElement class="objective" style="align-items: center; justify-content: space-between; flex-direction: row;">
+                <ui:Label text=" •   Collect Yellow Stars" display-tooltip-when-elided="true" name="ObjectiveName" style="-unity-font-style: bold; color: rgb(255, 255, 255); font-size: 18px;" />
+                <ui:Label text="0/0" display-tooltip-when-elided="true" name="Values" style="-unity-font-style: bold; color: rgb(255, 255, 255); font-size: 18px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
