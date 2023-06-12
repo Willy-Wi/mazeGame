@@ -13,6 +13,8 @@ public class StarBase : MonoBehaviour
     protected void SharedBehavior()
     {
         audioSource.Play();
+        // Destroys the Child of the GameObject that the script is attached to.
+        // Also disables the Collider. 
         Destroy(transform.GetChild(0).gameObject);
         bCollider.enabled = false;
     }

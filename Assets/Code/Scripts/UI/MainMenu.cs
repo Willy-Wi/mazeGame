@@ -8,6 +8,7 @@ public class MainMenu : MonoBehaviour
     {
         VisualElement root = GetComponent<UIDocument>().rootVisualElement;
 
+        // Find Element with the id 'Play' and 'Quit'.
         Button playGame = root.Q<Button>("Play");
         Button quitGame = root.Q<Button>("Quit");
 
