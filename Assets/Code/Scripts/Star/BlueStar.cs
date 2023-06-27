@@ -1,23 +1,22 @@
 using UnityEngine;
 using System.Collections;
 
-public class BlueStar : StarBase
+public class BlueStar: BaseStar
 {
     [SerializeField] private ToggleCamera toggleCamera;
-    private void OnTriggerEnter(Collider other)
+    private float delay = 7.0f;
+
+    protected override void ExecuteBehavior()
     {
-        if (other.CompareTag("Player"))
+        toggleCamera.toggleCam();
+        if (delay < audioSource.clip.length)
         {
-            // SharedBehavior() derived from StarBase class.
-            SharedBehavior();
-            toggleCamera.toggleCam();
-            StartCoroutine(DestroyScheduled(7));
+            delay = audioSource.clip.length;
         }
+        StartCoroutine(DelayDestroy(delay));
     }
 
-    // Wait for *delay amount seconds before switching back the camera.
-    // After that, destroy the GameObject that script is attached to.
-    private IEnumerator DestroyScheduled(float delay)
+    protected override IEnumerator DelayDestroy(float delay)
     {
         yield return new WaitForSeconds(delay);
         toggleCamera.toggleCam();

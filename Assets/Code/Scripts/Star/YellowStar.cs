@@ -1,23 +1,16 @@
 using System.Collections;
 using UnityEngine;
 
-public class YellowStar : StarBase
+public class YellowStar : BaseStar
 {
     [SerializeField] private Score score;
-
-    private void OnTriggerEnter(Collider other)
+    protected override void ExecuteBehavior()
     {
-        if (other.CompareTag("Player"))
-        {
-            // SharedBehavior() derived from StarBase class.
-            SharedBehavior();
-            score.UpdateScore();
-            StartCoroutine(DestroyScheduled(audioSource.clip.length));
-        }
+        score.UpdateScore();
+        StartCoroutine(DelayDestroy(audioSource.clip.length));
     }
 
-    // Wait for *delay amount seconds before destroying the GameObject that script is attached to.
-    private IEnumerator DestroyScheduled(float delay)
+    protected override IEnumerator DelayDestroy(float delay)
     {
         yield return new WaitForSeconds(delay);
         Destroy(gameObject);
