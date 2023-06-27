@@ -200,7 +200,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (9)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -220,7 +220,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -451,7 +451,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -520,7 +520,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (18)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -605,7 +605,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -674,7 +674,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -798,7 +798,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -812,7 +812,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (11)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -962,7 +962,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (20)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -982,7 +982,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -1051,7 +1051,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (10)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -1281,7 +1281,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (26)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -1301,7 +1301,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (5)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -1451,7 +1451,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (18)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -1471,7 +1471,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (14)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -1621,7 +1621,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (5)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -1706,7 +1706,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -1726,7 +1726,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -1850,7 +1850,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -1929,7 +1929,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (12)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -2004,7 +2004,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -2018,7 +2018,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (12)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -2158,7 +2158,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -2172,7 +2172,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (6)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -2312,7 +2312,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -2326,7 +2326,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -2460,7 +2460,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (22)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -2480,7 +2480,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -2614,7 +2614,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (7)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -2699,7 +2699,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (19)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -2784,7 +2784,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (24)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -2869,7 +2869,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (17)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -2944,7 +2944,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -3023,7 +3023,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (13)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -3043,7 +3043,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -3167,7 +3167,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -3181,7 +3181,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -3315,7 +3315,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (6)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -3390,7 +3390,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -3459,7 +3459,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -3473,7 +3473,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -3542,7 +3542,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -3676,7 +3676,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (15)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -3782,7 +3782,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -3851,7 +3851,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (9)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -4001,7 +4001,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (2)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -4021,7 +4021,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (7)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -4106,7 +4106,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -4269,7 +4269,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (17)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -4419,7 +4419,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (25)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -4439,7 +4439,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -4622,7 +4622,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (14)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -4707,7 +4707,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (10)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -4727,7 +4727,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -4861,7 +4861,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (23)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -4881,7 +4881,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (4)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -5031,7 +5031,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (3)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -5106,7 +5106,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -5175,7 +5175,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -5189,7 +5189,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -5313,7 +5313,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -5327,7 +5327,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (15)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -5467,7 +5467,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -5599,7 +5599,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -5668,7 +5668,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -5737,7 +5737,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -5921,7 +5921,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (1)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -6061,7 +6061,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -6130,7 +6130,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -6144,7 +6144,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -6213,7 +6213,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -6282,7 +6282,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (3)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -6432,7 +6432,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (11)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -6452,7 +6452,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (13)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -6537,7 +6537,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (16)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -6622,7 +6622,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -6756,7 +6756,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (21)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -6841,7 +6841,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (4)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -6916,7 +6916,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -6930,7 +6930,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -7015,7 +7015,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -7139,7 +7139,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -7153,7 +7153,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1869139585}
   m_Layer: 0
-  m_Name: Blue Stars
+  m_Name: Blue Cubes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7203,7 +7203,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -7272,7 +7272,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -7406,7 +7406,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (8)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -7426,7 +7426,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (8)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -7576,7 +7576,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (1)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -7869,7 +7869,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (16)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
@@ -7889,7 +7889,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -8013,7 +8013,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -8027,7 +8027,7 @@ PrefabInstance:
     - target: {fileID: 2123077121573416452, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star Container (2)
+      value: Blue Cube Container
       objectReference: {fileID: 0}
     - target: {fileID: 2192131846112226521, guid: be1239493daf3554e9c5a2d49932a9cf,
         type: 3}
@@ -8112,7 +8112,7 @@ PrefabInstance:
     - target: {fileID: 2409991457151603682, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star
+      value: Yellow Cube
       objectReference: {fileID: 0}
     - target: {fileID: 3042694859989125464, guid: 5280a37008dd0c54aae5a005c6768927,
         type: 3}
@@ -8181,7 +8181,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2109741208}
   m_Layer: 0
-  m_Name: Yellow Stars
+  m_Name: Yellow Cubes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8295,7 +8295,7 @@ PrefabInstance:
     - target: {fileID: 4470989055707986903, guid: 212b26b69e7bacf4fb20375c77336db4,
         type: 3}
       propertyPath: m_Name
-      value: Blue Star
+      value: Blue Cube
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 212b26b69e7bacf4fb20375c77336db4, type: 3}
@@ -8374,7 +8374,7 @@ PrefabInstance:
     - target: {fileID: 6592477693033319715, guid: ef74a1073be65ac4484418e9f98431c0,
         type: 3}
       propertyPath: m_Name
-      value: Yellow Star Container (27)
+      value: Yellow Cube Container
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ef74a1073be65ac4484418e9f98431c0, type: 3}
