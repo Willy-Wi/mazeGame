@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class YellowStar : BaseStar
+public class YellowCube : BaseCube
 {
     [SerializeField] private Score score;
     protected override void ExecuteBehavior()

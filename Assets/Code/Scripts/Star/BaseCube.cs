@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public abstract class BaseStar: MonoBehaviour
+public abstract class BaseCube: MonoBehaviour
 {
     [SerializeField] protected AudioSource audioSource;
     private BoxCollider bCollider;

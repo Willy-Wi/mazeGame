@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class BlueStar: BaseStar
+public class BlueCube: BaseCube
 {
     [SerializeField] private ToggleCamera toggleCamera;
     private float delay = 7.0f;
