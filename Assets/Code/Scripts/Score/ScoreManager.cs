@@ -22,7 +22,6 @@ public class ScoreManager : MonoBehaviour
             SceneManager.LoadScene(0);
             return;
         }
-        
 
         SceneManager.LoadScene(sceneIndex + 1);
     }

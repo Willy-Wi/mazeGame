@@ -1,10 +1,11 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class PlayerMovement : MonoBehaviour
+public class Player : MonoBehaviour
 {
     [SerializeField]
     private Transform cam;
+
     private float speed = 7f;
     private Rigidbody rb;
     private Vector3 spawnPosition;
@@ -17,10 +18,13 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        if (transform.position.y <= -10)
-        {
-            transform.position = spawnPosition + new Vector3(0, 1f, 0);
-        }
+        IsPlayerOutOfBounds();
+    }
+
+    private void IsPlayerOutOfBounds()
+    {
+        if (transform.position.y >= -10) return;
+        transform.position = spawnPosition + new Vector3(0, 1f, 0);
     }
 
     private void FixedUpdate()
