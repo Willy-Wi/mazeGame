@@ -3,10 +3,10 @@ using UnityEngine;
 
 public class YellowCube : BaseCube
 {
-    [SerializeField] private Score score;
+    [SerializeField] private ScoreManager score;
     protected override void ExecuteBehavior()
     {
-        score.UpdateScore();
+        score.IncrementScore();
         StartCoroutine(DelayDestroy(audioSource.clip.length));
     }
 

@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CheckWin : MonoBehaviour
 {
-    [SerializeField] private Score score;
+    [SerializeField] private ScoreManager score;
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))

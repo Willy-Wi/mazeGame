@@ -4,7 +4,7 @@ using UnityEngine.UIElements;
 public class ScoreUI : MonoBehaviour
 {
     private VisualElement root;
-    [SerializeField] private Score score;
+    [SerializeField] private ScoreManager score;
     private Label scoreUI;
 
     private void Start()
@@ -17,6 +17,6 @@ public class ScoreUI : MonoBehaviour
 
     public void UpdateScoreUI()
     {
-        scoreUI.text = score.GetScore() + "/" + score.GetMaxScore();
+        scoreUI.text = score.scoreCount + "/" + score.maxScore;
     }
 }
