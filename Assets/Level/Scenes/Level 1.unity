@@ -594,6 +594,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1710152398646075215, guid: 3eb4be276c33a034080359a65f03b4b7,
+        type: 3}
+      propertyPath: cam
+      value: 
+      objectReference: {fileID: 1991122957}
     - target: {fileID: 4529460441922050596, guid: 3eb4be276c33a034080359a65f03b4b7,
         type: 3}
       propertyPath: m_Name
@@ -1534,7 +1539,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a02cbf526d607d479703553d0d61f5a, type: 3}
+  m_Script: {fileID: 11500000, guid: c15fdea5d8196244caf54f6dc8e468a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &1078567429

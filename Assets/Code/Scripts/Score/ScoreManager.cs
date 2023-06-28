@@ -5,24 +5,19 @@ public class ScoreManager : MonoBehaviour
 {
     public int maxScore { get; private set; }
     public int scoreCount { get; private set; }
-    private int sceneIndex = SceneManager.GetActiveScene().buildIndex;
-    private int totalScenes = SceneManager.sceneCountInBuildSettings;
+    private int sceneIndex, totalScenes;
     [SerializeField] ScoreUI scoreUI;
 
     private void Awake()
     {
         maxScore = GameObject.FindGameObjectsWithTag("Yellow Star").Length;
+        sceneIndex = SceneManager.GetActiveScene().buildIndex;
+        totalScenes = SceneManager.sceneCountInBuildSettings;
     }
 
     public void CheckScore()
     {
-        if (scoreCount <= maxScore) return;
-
-        if (sceneIndex >= totalScenes) {
-            SceneManager.LoadScene(0);
-            return;
-        }
-
+        if (scoreCount < maxScore) return;
         SceneManager.LoadScene(sceneIndex + 1);
     }
 
