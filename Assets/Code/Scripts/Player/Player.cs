@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
     [SerializeField]
     private Transform cam;
 
-    private float speed = 7f;
+    private float speed = 8f;
     private Rigidbody rb;
     private Vector3 spawnPosition;
 

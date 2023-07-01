@@ -4,7 +4,7 @@ using System.Collections;
 public class BlueCube: BaseCube
 {
     [SerializeField] private ToggleCamera toggleCamera;
-    private float delay = 7.0f;
+    private float delay = 4.0f;
 
     protected override void ExecuteBehavior()
     {
